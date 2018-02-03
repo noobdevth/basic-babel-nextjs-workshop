@@ -1,0 +1,11 @@
+{
+  "name": "workshop1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "no-babel.js",
+  "scripts": {
+    "start": "node no-babel"
+  },
+  "author": "",
+  "license": "ISC"
+}
