@@ -4,8 +4,12 @@
   "description": "",
   "main": "no-babel.js",
   "scripts": {
-    "start": "node no-babel"
+    "start": ""
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
 }
