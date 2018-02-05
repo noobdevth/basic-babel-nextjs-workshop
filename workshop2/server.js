@@ -3,7 +3,7 @@ import express from 'express'
 const app = express()
 
 app.get('/', (req, res) => {
-    res.send("Hello World ! workshop2 : .babelrc & plugin ")
+    res.send("Hello World ! workshop2 : .babelrc")
 }
 )
 
